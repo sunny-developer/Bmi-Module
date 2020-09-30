@@ -15,7 +15,7 @@ const yourBmi = require('your-bmi');
 
 1. There is **method calcBMI** which take arguments of **Weight in kg** and  **Height in meter.**
 
-2. Store it in a variable and log it afterwars.
+2. Store it in a variable and log it afterwards.
 
 3. .calcBMI(Weight In Kg , Height In Meter)
 
